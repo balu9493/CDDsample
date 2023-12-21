@@ -1,1 +1,1 @@
-Pull command succeded
+Pull command succeded in kali linux.
